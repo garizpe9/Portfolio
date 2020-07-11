@@ -1,0 +1,14 @@
+
+@media (max-width: 640px){
+
+    body {
+        background-color: gray;
+        }
+}
+
+@media (max-width: 768px){
+
+    body {
+        background-color: slateblue;
+        }
+}
