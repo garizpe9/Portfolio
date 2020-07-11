@@ -7,7 +7,6 @@ body {
 nav {
     background-color: purple;
 }
-
 .container {
     padding-top: 12px;
 }
@@ -24,7 +23,6 @@ footer {
 /* Portfolio */
 .card-title {
     background-color: black;
-}
 
 /* For mobile phones: */
 [class*="col-"] {
